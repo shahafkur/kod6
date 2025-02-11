@@ -1,2 +1,2 @@
-print("hello avi")
-print(99999)
+print("hello moti")
+print(8888)
